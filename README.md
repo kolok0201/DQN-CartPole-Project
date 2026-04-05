@@ -21,7 +21,7 @@
 
 ![DQN vs DDQN Comparison](dqn_vs_ddqn_comparison.png)
 
-## 📁 專案結構
+##  專案結構
 * `main.py`: 標準 DQN 演算法主程式。
 * `compare_ddqn.py`: DQN 與 DDQN 對照實驗腳本，包含移動平均 (Moving Average) 的視覺化圖表生成。
 * `presentation.html`: 專案架構與分析簡報（可直接下載並以瀏覽器開啟）。
