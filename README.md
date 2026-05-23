@@ -1,6 +1,6 @@
 # Deep Q-Network & Double DQN for CartPole Control
 
-這是一個專為探討強化學習演算法穩定性所建構的專案。本專案使用 PyTorch 從零實作 (Build from scratch) Deep Q-Network (DQN) 與 Double DQN (DDQN) 演算法，以解決 OpenAI Gym `CartPole-v0` 環境中的非線性控制問題。
+這是一個專為探討強化學習演算法穩定性所建構的專案，本專案使用 PyTorch 從零實作 (Build from scratch) Deep Q-Network (DQN) 與 Double DQN (DDQN) 演算法，以解決 OpenAI Gym `CartPole-v0` 環境中的非線性控制問題。
 
 ##  專案技術亮點
 
